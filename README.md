@@ -2,12 +2,14 @@
 
 An operating system.
 
-Features right now:
+Short-term goals:
  - [ ] Booting into OS
  - [ ] Simple IO
  - [ ] Simple C STL
 
-Long Term Goals:
+Long-term goals:
+ - [ ] Our own bootloader?
+ - [ ] LLVM port?
  - [ ] GNU/Linux spec compliance
  - [ ] BSD spec compliance
  - [ ] Full C STL Implementation
